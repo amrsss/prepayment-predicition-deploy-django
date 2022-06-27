@@ -229,7 +229,6 @@ Use this space to list resources you find helpful and would like to give credit 
 [linkedin-url]: https://www.linkedin.com/in/amr-ahmed-ramadan/
 <!-- Languages-->
 [python-shield]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
-[]
 [django-shield]: https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white
 [html-shield]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
 [css-shield]:https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
