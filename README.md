@@ -1,9 +1,9 @@
 <div id="top"></div>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stars][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
+[![Contributors]][contributors-url]
+[![Forks]][forks-url]
+[![Stars]][stars-url]
+[![Issues]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
