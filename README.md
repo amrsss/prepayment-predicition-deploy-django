@@ -1,11 +1,10 @@
 <div id="top"></div>
 
 [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][https://github.com/amrahmed-swe/prepayment-predicition-deploy-django/fork]
-[![Python][stars-shield]][stars-url]
-[![Issues][issues-shield]][]
-[![MIT License][license-shield]]]
-[![LinkedIn][linkedin-shield]][]
+[![Forks][forks-shield]][forks-url]
+[![Stars][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -212,11 +211,10 @@ Use this space to list resources you find helpful and would like to give credit 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
+[contributors-url]: https://github.com/amrsss/prepayment-predicition-deploy-django/graphs/contributors
 [forks-shield]: https://img.shields.io/badge/coverage-80%25-yellowgreen
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
+[forks-url]: https://github.com/amrsss/prepayment-predicition-deploy-django/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
 [stars-url]: https://github.com/amrsss/prepayment-predicition-deploy-django/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
