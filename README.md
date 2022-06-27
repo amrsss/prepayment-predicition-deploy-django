@@ -1,10 +1,8 @@
 <div id="top"></div>
 
-[![Contributors]][contributors-url]
-[![Forks]][forks-url]
-[![Stars]][stars-url]
-[![Issues]][issues-url]
+[![Python][python-shield]][3.8]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+
 
 
 
@@ -221,4 +219,5 @@ Use this space to list resources you find helpful and would like to give credit 
 [issues-url]: https://github.com/amrahmed-swe/prepayment-predicition-deploy-django/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/amr-ahmed-ramadan/
+[python-shield]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 [product-screenshot]: images/screenshot.png
