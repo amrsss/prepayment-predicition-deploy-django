@@ -1,6 +1,14 @@
 <div id="top"></div>
 
-[![Python][python-shield]][3.8]
+![Python][python-shield]
+![Django][django-shield]
+![HTML5][html-shield]
+![CSS3][css-shield]
+![JavaScript][js-shield]
+![Heroku][heroku-shield]
+![NumPy][numpy-shield]
+![Pandas][pandas-shield]
+![scikit-learn][scikit-shield]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -219,5 +227,15 @@ Use this space to list resources you find helpful and would like to give credit 
 [issues-url]: https://github.com/amrahmed-swe/prepayment-predicition-deploy-django/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/amr-ahmed-ramadan/
+<!-- Languages-->
 [python-shield]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+[]
+[django-shield]: https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white
+[html-shield]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
+[css-shield]:https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
+[js-shield]:https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
+[numpy-shield]: https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white
+[pandas-shield]:https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white
+[scikit-shield]: https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white
+[heroku-shield]: https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white
 [product-screenshot]: images/screenshot.png
